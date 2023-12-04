@@ -3,10 +3,10 @@
         "GroupName": "Group1",
         "Users": [
             {
-                "ComputerName": "AdminGS",
+                "ComputerName": "PC-name",
                 "SessionID": 1,
-                "Username": "Аdmin",
-                "Password": "361548"
+                "Username": "user",
+                "Password": "pass"
             },
             {
                 "ComputerName": "AnotherComputer",
